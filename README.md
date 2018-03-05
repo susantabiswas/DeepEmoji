@@ -3,6 +3,10 @@ Express your words with the power of Emoji. <br>
 Using a deep **LSTM network** the model associates an english input sentence with an emoji. **GLoVe**  was 
 used in the model since the dataset on which it was trained on was very very small. 
 
+Here is a snapshot.
+![alt text](images/4.JPG)
+
+
 <br>GLoVe file **"glove.6B.50d"** can be downloaded from https://nlp.stanford.edu/projects/glove/
 ### Credits
 1. This project is based on the assignment from Sequence Models Specialization by Deeplearning.ai on Coursera.
