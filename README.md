@@ -18,8 +18,8 @@ Here is a snapshot.<br>
 ### Output on User input
 ![alt text](images/3.JPG)
 
+GLoVe file **"glove.6B.50d"** can be downloaded from https://nlp.stanford.edu/projects/glove/
 
-<br>GLoVe file **"glove.6B.50d"** can be downloaded from https://nlp.stanford.edu/projects/glove/
 ### Credits
 1. This project is based on the assignment from Sequence Models Specialization by Deeplearning.ai on Coursera.
 https://www.coursera.org/learn/nlp-sequence-models/home/welcome.
