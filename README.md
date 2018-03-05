@@ -8,11 +8,15 @@ Here is a snapshot.<br>
 
 ![alt text](images/4.JPG)
 
-## Model Predictions
+### Model Predictions
 ![alt text](images/1.JPG)
 
 
 ![alt text](images/2.JPG)
+
+
+### Output on User input
+![alt text](images/3.JPG)
 
 
 <br>GLoVe file **"glove.6B.50d"** can be downloaded from https://nlp.stanford.edu/projects/glove/
