@@ -2,7 +2,7 @@
 Express your words with the power of Emoji. <br>
 Using a deep **LSTM network** the model associates an english input sentence with an emoji. 
 
-**GLoVe**  was used in the model since the dataset on which it was trained on was very very small. 
+**GLoVe**  was used in the model since the dataset on which it was trained on was very very small with only 5 emoji. 
 
 Here is a snapshot.<br>
 
